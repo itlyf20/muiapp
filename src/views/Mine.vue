@@ -7,7 +7,9 @@
 				<ul class="mui-table-view mui-table-view-chevron">
 					<li class="mui-table-view-cell mui-media">
 						<a class="mui-navigate-right" href="#account">
-							<img class="mui-media-object mui-pull-left head-img" id="head-img" src="../assets/images/fankui.png">
+							<img class="mui-media-object mui-pull-left head-img" 
+								id="head-img" 
+								src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4163356956,4069646919&fm=11&gp=0.jpg">
 							<div class="mui-media-body">
 								Taurus
 								<p class='mui-ellipsis'>账号:lyf1959</p>
@@ -33,7 +35,7 @@
 				</ul>
 				<ul class="mui-table-view mui-table-view-chevron">
 					<li class="mui-table-view-cell">
-						<a href="#about" class="mui-navigate-right">关于MUI <i class="mui-pull-right update">V3.1.0</i></a>
+						<a href="#about" class="mui-navigate-right">关于我们<i class="mui-pull-right update">V3.1.0</i></a>
 					</li>
 				</ul>
 				<ul class="mui-table-view">
@@ -66,5 +68,8 @@ margin-bottom: 30px;
 }
 .mui-table-view {
 margin-top: 20px;
+}
+#head-img{
+	border-radius: 20px;
 }
 </style>
